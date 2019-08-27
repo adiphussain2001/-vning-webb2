@@ -1,0 +1,62 @@
+body{
+  background-image: url(https://chalkbeat.org/wp-content/uploads/2018/10/GettyImages-1002265676-900x0-c-default.jpg);
+  height: 170vh;
+  font-family: monospace;
+  font.color: white;
+}
+
+#Titel{
+width: 50vw;
+height: 20vh;
+background-color: silver;
+font-size: 17px;
+border-radius: 8px;
+border: 10px black solid;
+margin-left: auto;
+margin-right: auto;
+border-style: solid;
+text-align: center;
+}
+
+#Table{
+width: 40vw;
+height: 100vh;
+margin-left: auto;
+margin-right: auto;
+background-color: silver;
+margin-top: 55px;
+border: 10px black solid;
+border-style: solid;
+text-align: center;
+}
+
+#Beräkning{
+  width: 55vw;
+  height: 40vh;
+  background-color: silver;
+  font-size: 17px;
+  border-radius: 8px;
+  border: 10px black solid;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  margin-top: 70px;
+  text-align: center;
+}
+
+#Ruta{
+  width: 30vw;
+  height: 20vh;
+  background-color: Pink;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center
+  
+}
+
+#Button{
+  width: 10vw;
+  height: 5vh;
+  margin-top: 2px;
+  color: black;
+}
